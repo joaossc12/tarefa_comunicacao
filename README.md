@@ -6,9 +6,9 @@ Este projeto utiliza a **Raspberry Pi Pico W** em conjunto com o **Kit de Desenv
 
 ## 🎯 Objetivos
 
-✔ Implementar comunicação via **I2C** e **UART** para controle de periféricos.
-✔ Utilizar o **Pico SDK** para programação em **C**.
-✔ Trabalhar com interrupções para capturar eventos dos botões.
+✔ - Implementar comunicação via **I2C** e **UART** para controle de periféricos.
+✔ - Utilizar o **Pico SDK** para programação em **C**.
+✔ - Trabalhar com interrupções para capturar eventos dos botões.
 
 ## 📺 Demonstração
 
