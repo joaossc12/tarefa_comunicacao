@@ -13,7 +13,7 @@ Este projeto utiliza a **Raspberry Pi Pico W** em conjunto com o **Kit de Desenv
 ## 📺 Demonstração
 
 - **Execução na Placa BitDogLab:** 
-- **Vídeo** [Youtube]()
+- **Vídeo** [Youtube](https://youtube.com/shorts/05vVg3j3qGU)
 
 ## 🛠 Tecnologia Utilizada
 

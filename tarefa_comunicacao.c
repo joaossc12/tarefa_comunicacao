@@ -31,7 +31,7 @@ static void callback_button(uint gpio, uint32_t events);
 
 int main()
 {   
-    sleep_ms(5000);
+    sleep_ms(1000);
     //PIO
     PIO pio = pio0;
     bool clk = set_sys_clock_khz(128000, false);
